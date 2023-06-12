@@ -3,7 +3,7 @@ dataretrieval==1.0.4
 hydroeval==0.1.0
 hydrotools==2.2.2
 ipykernel==6.15.1
-ipython==8.4.0
+ipython==8.10.0
 keras==2.9.0
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
